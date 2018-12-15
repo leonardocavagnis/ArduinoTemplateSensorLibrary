@@ -1,0 +1,4 @@
+Sensor		KEYWORD1
+begin		KEYWORD2
+end			KEYWORD2
+sensorRead	KEYWORD2

@@ -1,1 +1,1 @@
-# ArduinoTemplateSensorLibrary
+#Arduino Template Sensor Library#
